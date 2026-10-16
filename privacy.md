@@ -43,3 +43,9 @@ The use of information received from browser APIs will adhere to applicable brow
 ## Legal note
 
 Users are responsible for respecting copyright, licenses, website terms, and applicable law. The extension does not bypass DRM, authentication, paywalls, copyright protections, or protected streaming mechanisms.
+
+## Contact
+
+For support, feedback, or collaboration, contact [mekvian@proton.me](mailto:mekvian@proton.me).
+
+GitHub: [mekvian](https://github.com/mekvian).
